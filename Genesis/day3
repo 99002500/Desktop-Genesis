@@ -1,0 +1,64 @@
+Task1: Vending Machine- 
+
+Remodel for product 
+
+Title, research(aging,cost), features- outcome, Ensure u have references for this segment
+Product features define
+SWOT analysis
+Detail out requirements- High level and low level requirements
+Design- System design(Structural and behavioural diagram), Unit Design(Structural and behavioural diagram)
+Test Plan- Integrated test plan and unit test plan
+Tracebility between high and low level requirements and linking.
+
+
+Task 2: Structure repeats, but this time there is implementation.
+Document delta changes
+Evolutions
+Snippets and dashboard- U have utilized issues, code quality is used.
+Ensure unit test framework is in compliance with unit test plan.
+
+Have scenarios where it is failed(Test cases which are not able to satisfy. Justify it).
+
+Task 3: Agile adaptation of product(Done in activity 1)
+Theme, Epics and have user stories as well as user points.
+
+Team Activities:
+
+Task 1: Chronological order sequence(Latest first). Cause,impact,outcomes and references of product.
+
+Task 2: Take any example cut across all UML diagrams. Understanding SysML and UML.
+
+Complete diagrams and document it. Understand why particular diagram is used
+Different types of SysML diagrams. Understand them no need to apply.
+
+Task 3: 2 parts:
+
+a. Understanding of agile- Manifesto, principles, roles, artifacts and tools
+ 
+ b. How are you organizing yourself as agile in team. Share challenges end of day retrospect.
+ 
+ Task 4: Take product- Simple calculator and write VModel and Agile Model.
+ 
+ Task 5: One liner about tools and where it falls. Classify seperately. 
+ 
+ 
+ 
+ Tools used in agile
+ IBM Doors
+ 
+ We can attach requirements for UML diagram in IBM doors(To track UML diagrams).
+ 
+ Visual Paradigm + Enterprise architect + Microsoft Visio, Magic Draw
+ 
+ Tools help us in test plans: LDRA and Parasoft
+ 
+ -> Multifold plans- Manual and automated test plans- Coverage, Cyclomatic complexity, compliance,static code analysis
+ Attach requirement tests
+ 
+ 
+ 
+ 
+ 
+
+Individual activity - 60% weightage
+Team Activity - 40% weightage

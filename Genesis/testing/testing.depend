@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603182784 source:/home/user/Desktop/testing/readingthefile.cc
+	<iostream>
+	<type_traits>
+

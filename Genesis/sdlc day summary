@@ -1,0 +1,76 @@
+Take beverage vending machine
+Day 1: V Model
+1. Define product
+
+2. Research
+Aging and costing
+
+Machine 5 years ago, today now.
+
+Coffee machine from different groups.
+
+3. Features of product
+
+4. SWOT analysis
+
+5. Requirements:
+High level- Feature- Machine is able to dispense beverage of choice
+Low level- Different types of coffee
+Consistency, taste, working parameters- 230v 
+Grinder to grind coffee beans and heating filament
+Requirement ID and description
+
+-> Visit coffee machines of all groups and compare the products
+
+6. System Designs
+
+Draw UML diagrams- Structural and behaviour (2 at high level and 2 at low level)
+UML diagram at system level- Do for system level
+
+Like system level component diagram
+
+7. 2 Test plans (Integration level test plan(High level) Unit level test plan(Low level))
+ Test ID, test description, expected i/p and expected o/p, actual o/p, actual i/p.
+ 
+ Tracebility
+ 
+ Integration level test plan- Multiple times button is pressed what happens
+ 
+ Seperate pipe to dispense coffee, milk so that coffee taste doesnt come to milk
+ 
+ Requirement based testing
+ Scenario based testing- Reacting based on user inputs, power cut what to do
+ Boundary based testing
+ 
+ 
+ Team activities
+ Impact of defective products
+ Why UML and SysML
+ 
+ UML and SysML- Powerful visual representation
+ 
+ Summary:
+ 
+
+ 
+ Why SDLC and then defects and recalls that happens in real life
+ 
+ Why go through processes- SDLC
+
+Types of projects and requirements and technological changes
+
+Applying vmodel on beverage vending machine
+
+Standards in aerospace,automotive
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
