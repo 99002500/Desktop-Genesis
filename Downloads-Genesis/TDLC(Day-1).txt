@@ -1,0 +1,35 @@
+AGENDA:	
+	Test Driven Life Cycle Concepts
+
+Topics covered today :
+
+  1.Code quality (static and dynamic code analysis)
+  2.Quality assurance on testing(QA & T)
+  3.Difference and core aspects of TDLC from SDLC
+  4.Difference and core aspects of TDD
+  5.Applications of TDLC
+  6.Difference between verification and validation
+  7.What is debugging
+  8.Difference between error, defect,bug and failure
+  7.Refactoring and backtracking
+
+	
+
+
+TODO:
+Individual Activity:
+
+    Task 1 : Review slide deck(testing) and ask questions on yammer
+
+Team Activity:
+
+    1. TDLC(4W & 1H)
+    2. TDD(4W & 1H)
+    3. Implementing TDLC and TDD on mini project (c++ and python project)
+    4. Comparison on test objectives , test basis and test objects (on testing).
+    5. Configure tool (debugging, auto complete,symbol viewer ,build ,lint,gdb )
+    
+	  	
+	  	
+	 
+	

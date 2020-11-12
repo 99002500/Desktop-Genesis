@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/executeTests.out.dir/tripdb-test.cpp.o  -o executeTests.out  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

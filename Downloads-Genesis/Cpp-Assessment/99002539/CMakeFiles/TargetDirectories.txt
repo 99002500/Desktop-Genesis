@@ -1,0 +1,4 @@
+/home/user/Downloads/Cpp-Assessment/99002539/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/Cpp-Assessment/99002539/CMakeFiles/edit_cache.dir
+/home/user/Downloads/Cpp-Assessment/99002539/CMakeFiles/Tests.out.dir
+/home/user/Downloads/Cpp-Assessment/99002539/CMakeFiles/executeTests.out.dir

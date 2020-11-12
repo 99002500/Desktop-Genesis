@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Downloads/Cpp-Assessment/99002539/flighttrip.cc
+flighttrip.h
+/home/user/Downloads/Cpp-Assessment/99002539/flighttrip.h
+
+/home/user/Downloads/Cpp-Assessment/99002539/flighttrip.h
+trip.h
+/home/user/Downloads/Cpp-Assessment/99002539/trip.h
+
+/home/user/Downloads/Cpp-Assessment/99002539/trip-test.cpp
+trip.cc
+/home/user/Downloads/Cpp-Assessment/99002539/trip.cc
+flighttrip.cc
+/home/user/Downloads/Cpp-Assessment/99002539/flighttrip.cc
+gtest/gtest.h
+-
+
+/home/user/Downloads/Cpp-Assessment/99002539/trip.cc
+trip.h
+/home/user/Downloads/Cpp-Assessment/99002539/trip.h
+
+/home/user/Downloads/Cpp-Assessment/99002539/trip.h
+iostream
+-
+

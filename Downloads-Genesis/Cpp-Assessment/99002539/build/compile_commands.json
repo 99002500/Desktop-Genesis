@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/user/Downloads/Cpp-Assessment/99002539/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/Tests.out.dir/trip-test.cpp.o -c /home/user/Downloads/Cpp-Assessment/99002539/trip-test.cpp",
+  "file": "/home/user/Downloads/Cpp-Assessment/99002539/trip-test.cpp"
+},
+{
+  "directory": "/home/user/Downloads/Cpp-Assessment/99002539/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/executeTests.out.dir/tripdb-test.cpp.o -c /home/user/Downloads/Cpp-Assessment/99002539/tripdb-test.cpp",
+  "file": "/home/user/Downloads/Cpp-Assessment/99002539/tripdb-test.cpp"
+}
+]

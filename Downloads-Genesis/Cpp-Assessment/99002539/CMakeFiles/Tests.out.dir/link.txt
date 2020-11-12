@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Tests.out.dir/trip-test.cpp.o  -o Tests.out  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
